@@ -1,0 +1,31 @@
+body{
+    background-color: #292524;
+}
+
+h1{
+    font-size: 42px;
+    text-transform:uppercase;
+    text-align: center;
+    font-family: Coiny, sans-serif;
+    color: #f8fafc
+    /* First 2 are amont of red secong 2 are amount of green last are amount of blue */
+}
+
+.fact{
+    font-size: 20px;
+    line-height: 1.4;
+    font-family: sono, sans-serif;
+    color: #f8fafc
+}
+
+.tag {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: Coiny, sans-serif;
+    color: #f8fafc
+}
+
+ul{
+    list-style: none;
+    color: #f8fafc
+}
